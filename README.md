@@ -1,4 +1,4 @@
-# Exploring heart disease datasets from economic and hospital perspective.
+# Lessons that utilize two heart disease datasets - economic and hospital data.
 
 # lessons
 
